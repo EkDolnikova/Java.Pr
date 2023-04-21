@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-21T16:21:33.568235100Z</date>
+  <millis>1682094093568</millis>
+  <nanos>235100</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort Array</message>
+</record>
+<record>
+  <date>2023-04-21T16:21:33.633991300Z</date>
+  <millis>1682094093633</millis>
+  <nanos>991300</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Next sort iteration</message>
+</record>
+<record>
+  <date>2023-04-21T16:21:33.635991500Z</date>
+  <millis>1682094093635</millis>
+  <nanos>991500</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Next sort iteration</message>
+</record>
+<record>
+  <date>2023-04-21T16:21:33.636990100Z</date>
+  <millis>1682094093636</millis>
+  <nanos>990100</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Next sort iteration</message>
+</record>
+<record>
+  <date>2023-04-21T16:21:33.638988600Z</date>
+  <millis>1682094093638</millis>
+  <nanos>988600</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Next sort iteration</message>
+</record>
+<record>
+  <date>2023-04-21T16:21:33.639991800Z</date>
+  <millis>1682094093639</millis>
+  <nanos>991800</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sorting completed</message>
+</record>
+</log>
